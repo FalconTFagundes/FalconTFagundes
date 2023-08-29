@@ -4,9 +4,6 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/484477512001388545/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-fagundes-518974258/)
 
-![Fagundes GitHub stats](https://github-readme-stats.vercel.app/api?username=FalconTFagundes&show_icons=true&theme=dracula)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FalconTFagundes&langs_count=4)](https://github.com/FalconTFagundes/FalconTFagundes)
-<br><br>
-
 
 
 
