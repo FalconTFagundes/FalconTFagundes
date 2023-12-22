@@ -1,4 +1,4 @@
-## Opa! 👋 Eu sou o Rafael Fagundes 🦅
+## Hi! 👋 I am the Rafael Fagundes 🦅
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/2falcon.psy/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/484477512001388545/)
@@ -7,9 +7,13 @@
 
 
 
-## Technologies that I specialize in
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Technologies that I specialize in
+
+<p align="left"> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100"> </a> <a href="https://www.w3schools.com/css/"> <img src="https://icongr.am/devicon/css3-original.svg?size=100&color=currentColor" alt="css3"> </a> <a href=""> <img src="https://icongr.am/devicon/html5-original.svg?size=100&color=currentColor" alt="html5"> </a> <a href="https://www.mysql.com/"> <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=currentColor" alt="mysql"> </a> <a href="https://www.php.net"> <img src="https://icongr.am/devicon/php-original.svg?size=130&color=currentColor" alt="php"> </a> <a href=""> <img src="https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor" alt="javascript"> </a> <a href=""> <img src="https://icongr.am/devicon/linux-original.svg?size=115&color=currentColor" alt="linux"> </a> 
+
+</p>
 
 
 <h3> Top Repositories </h3>
