@@ -21,7 +21,7 @@
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FalconTFagundes&repo=actionHeroes-dashboard)](https://github.com/FalconTFagundes/actionHeroes-dashboard.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FalconTFagundes&repo=tcc-DivinoSabor)](https://github.com/FalconTFagundes/tcc-DivinoSabor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FalconTFagundes&repo=my-portifolio)](https://github.com/FalconTFagundes/my-portifolio.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FalconTFagundes&repo=tcc-DivinoSabor)](https://github.com/FalconTFagundes/tcc-DivinoSabor)
 </div>
 
 
