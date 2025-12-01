@@ -5,7 +5,7 @@
   
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fagundes.rf/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-fagundes-518974258/)
-  [![Web Portfolio](https://img.shields.io/badge/Portfolio-fagundes.dev.br-blue?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://fagundes.dev.br)
+  [![Web Portfolio](https://img.shields.io/badge/Portfolio-fagundes.dev.br-orange?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://fagundes.dev.br)
 </div>
 
 ---
