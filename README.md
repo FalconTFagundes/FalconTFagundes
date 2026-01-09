@@ -26,7 +26,7 @@
 <p align="left">Check out my portfolio and projects:</p>
 <ul>
   <li>💼 <a href="https://fagundes.dev.br">My Portfolio</a></li>
-  <li>📂 <a href="https://github.com/FalconTFagundes/tcc-DivinoSabor">Divino Sabor – Technical Systems Development Project (Winner, 100% on Presentation)</a></li>
+  <li>📂 <a href="https://zlarental.com.br">ZLA Rental - Locação de Plataformas e Serviços de Munck</a></li>
 </ul>
 
 ---
