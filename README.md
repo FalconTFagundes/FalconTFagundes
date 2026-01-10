@@ -34,7 +34,7 @@
 <h3 align="left">📫 Contact Me</h3>
 <p align="left">Feel free to reach out via:</p>
 <ul>
-  <li>📧 Email: <a href="mailto:rafaelfagundes@example.com">rafaelfagundes@example.com</a></li>
+  <li>📧 Email: <a href="mailto:rafaelfagundes@example.com">rafaelfagundes762@gmail.com</a></li>
   <li>📱 WhatsApp: <a href="https://wa.me/5533991414767">+55 33 99141-4767</a></li>
   <li>📸 Instagram: <a href="https://www.instagram.com/fagundes.rf/">fagundes.rf</a></li>
   <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/rafael-fagundes-518974258/">Rafael Fagundes</a></li>
