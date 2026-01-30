@@ -11,14 +11,27 @@
 ---
 
 <h3 align="left">💻 Technologies & Tools</h3>
-<p align="left">
-  <a href="https://getbootstrap.com"><img src="https://icongr.am/devicon/bootstrap-plain.svg?size=60&color=7549b6" alt="bootstrap"></a>
-  <a href="https://www.mysql.com/"><img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=80&color=currentColor" alt="mysql"></a>
-  <a href="https://www.php.net"><img src="https://icongr.am/devicon/php-original.svg?size=90&color=currentColor" alt="php"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor" alt="javascript"></a>
-  <a href="https://www.linux.org/"><img src="https://icongr.am/devicon/linux-original.svg?size=70&color=currentColor" alt="linux"></a>
-  <a href="https://jquery.com/"><img src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=70&color=currentColor" alt="jquery"></a>
-</p>
+
+<div align="Left">
+  <img alt="Bootstrap" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Bootstrap.svg"> 
+  <img alt="SQL Server" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQL Server.svg"> 
+  <img alt="PHP" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PHP.svg">
+  <img alt="JQuery" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/JQuery.svg">
+  <img alt="MySQL" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg"> 
+  <img alt="Linux" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linux.svg"> 
+   <a href="#">
+    
+</div>
+
+ <!-- <img src="https://github.com/user-attachments/assets/6d8f12bb-7b6f-4f3f-b371-81a52190a736"
+         alt="Delphi"
+         width="70"
+         height="70">
+  </a> -->
+
+ 
+
+
 
 ---
 
