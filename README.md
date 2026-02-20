@@ -16,6 +16,7 @@
   <img alt="Bootstrap" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Bootstrap.svg"> 
   <img alt="SQL Server" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQL Server.svg"> 
   <img alt="PHP" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PHP.svg">
+  <img alt="Delphi" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Delphi.svg">
   <img alt="JQuery" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/JQuery.svg">
   <img alt="MySQL" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg"> 
   <img alt="Linux" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linux.svg"> 
