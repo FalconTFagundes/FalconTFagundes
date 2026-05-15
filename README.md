@@ -37,11 +37,11 @@
 ---
 
 <h3 align="left">🌐 My Work</h3>
-<p align="left">Check out my portfolio and projects:</p>
-<ul>
-  <li>💼 <a href="https://fagundes.dev.br">My Portfolio</a></li>
-  <li>📂 <a href="https://zlarental.com.br">ZLA Rental - Locação de Plataformas e Serviços de Munck</a></li>
-</ul>
+<p align="left">Check out my portfolio and featured projects:</p>
+<div>
+ <a href="https://fagundes.dev.br"><img width="110" height="110" alt="falconImg" src="https://github.com/user-attachments/assets/a6e61693-0bda-4bed-842c-0cd9c1b7065d" /></a>
+ <a href="https://zlarental.com.br"><img width="110" height="110" alt="logoZla" src="https://github.com/user-attachments/assets/8fa5ca52-220b-4aaf-971c-7bd41e47ea56" /></a>
+</div>
 
 ---
 
