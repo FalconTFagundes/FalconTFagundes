@@ -19,8 +19,11 @@
   <img alt="Delphi" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Delphi.svg">
   <img alt="JQuery" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/JQuery.svg">
   <img alt="MySQL" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg"> 
-  <img alt="Linux" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linux.svg"> 
+  <img alt="Linux" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linux.svg">
+  <img alt="Photoshop" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Photoshop.svg"> 
    <a href="#">
+
+  
     
 </div>
 
