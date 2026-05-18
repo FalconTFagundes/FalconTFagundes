@@ -42,7 +42,7 @@
 <div>
  <a href="https://fagundes.dev.br"><img width="110" height="110" alt="falconImg" src="https://github.com/user-attachments/assets/a6e61693-0bda-4bed-842c-0cd9c1b7065d" /></a>
  <a href="https://github.com/FalconTFagundes/gerarComuniadosBC_2.0"><img width="110" height="110" alt="gerador de comunicados" src="https://github.com/user-attachments/assets/268eece0-62b7-4653-833a-df822e5fa7a6" /></a>
- <a href="https://github.com/FalconTFagundes/tcc-DivinoSabor"><img width="110" height="110" alt="divino sabor" src="https://github.com/user-attachments/assets/93debd9c-c485-4dac-a112-1319a295753a" /></a>
+ <a href="https://github.com/FalconTFagundes/tcc-DivinoSabor"><img width="110" height="110" alt="divino sabor" src="https://github.com/user-attachments/assets/4bec1fed-8842-4fcd-9a90-6cf391ba15c0"/></a>
  <a href="https://zlarental.com.br"><img width="110" height="110" alt="logoZla" src="https://github.com/user-attachments/assets/8fa5ca52-220b-4aaf-971c-7bd41e47ea56" /></a>
    <a href="https://github.com/FalconTFagundes/avaliacao-treinamento-OSI"><img width="110" height="110" alt="avaliacao treinamento OSI" src="https://github.com/user-attachments/assets/2c23d6ae-05bf-4250-b3ac-46059553b2dd" /></a>
 
