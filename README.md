@@ -41,6 +41,8 @@
 <div>
  <a href="https://fagundes.dev.br"><img width="110" height="110" alt="falconImg" src="https://github.com/user-attachments/assets/a6e61693-0bda-4bed-842c-0cd9c1b7065d" /></a>
  <a href="https://zlarental.com.br"><img width="110" height="110" alt="logoZla" src="https://github.com/user-attachments/assets/8fa5ca52-220b-4aaf-971c-7bd41e47ea56" /></a>
+ <a href="https://github.com/FalconTFagundes/tcc-DivinoSabor"><img width="110" height="110" alt="divino sabor" src="https://github.com/user-attachments/assets/b2b8ec07-631a-47da-943c-80343395b246" /></a>
+
 </div>
 
 ---
