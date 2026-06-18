@@ -1,5 +1,5 @@
 <h2 align="left"> Hi! 👋 I am Rafael Fagundes 🦅</h2>
-<p align="left">A passionate Web Developer & Tech Enthusiast from Brazil. I love creating efficient and elegant solutions using PHP, MySQL, Delphi, and more.</p>
+<p align="left">A passionate Development Analyst & Tech Enthusiast from Brazil. I love creating efficient and elegant solutions using PHP, MySQL, Delphi, and more.</p>
 
 <div align="left">
   
