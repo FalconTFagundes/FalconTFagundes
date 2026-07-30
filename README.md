@@ -44,7 +44,7 @@
  <a href="https://github.com/FalconTFagundes/gerarComuniadosBC_2.0"><img width="80" height="80" alt="gerador de comunicados" src="https://github.com/user-attachments/assets/268eece0-62b7-4653-833a-df822e5fa7a6" /></a>
  <a href="https://github.com/FalconTFagundes/tcc-DivinoSabor"><img width="80" height="80" alt="divino sabor" src="https://github.com/user-attachments/assets/4bec1fed-8842-4fcd-9a90-6cf391ba15c0"/></a>
  <a href="https://zlarental.com.br"><img width="80" height="80" alt="logoZla" src="https://github.com/user-attachments/assets/8fa5ca52-220b-4aaf-971c-7bd41e47ea56" /></a>
- <a href="https://github.com/FalconTFagundes/avaliacao-treinamento-OSI"><img width="80" height="80" alt="avaliacao treinamento OSI" src="https://github.com/user-attachments/assets/2c23d6ae-05bf-4250-b3ac-46059553b2dd" /></a>
+ <a href="https://github.com/BigCard-TI"><img width="80" height="80" alt="avaliacao treinamento OSI" src="https://github.com/user-attachments/assets/2c23d6ae-05bf-4250-b3ac-46059553b2dd" /></a>
  <a href="https://github.com/BigCard-TI"><img width="80" height="80" alt="Painel Protocolos" src="https://github.com/user-attachments/assets/5907d791-0e91-4a9c-b92f-b1345c3c09e0" /></a>
  <a href="https://github.com/BigCard-TI"><img width="80" height="80" alt="Alerta Tarefas" src="https://github.com/user-attachments/assets/7003bfb7-7569-4a0f-b4f8-8969b7e55ceb" /></a>
 </div>
