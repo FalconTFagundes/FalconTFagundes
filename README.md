@@ -60,10 +60,9 @@ Benefits, partnerships and credit, directly from Governador Valadares (MG) since
  <a href="https://github.com/BigCard-TI"><img width="80" height="80" alt="avaliacao treinamento OSI" src="https://github.com/user-attachments/assets/2c23d6ae-05bf-4250-b3ac-46059553b2dd" /></a>
  <a href="https://github.com/BigCard-TI"><img width="80" height="80" alt="Painel Protocolos" src="https://github.com/user-attachments/assets/5907d791-0e91-4a9c-b92f-b1345c3c09e0" /></a>
  <a href="https://github.com/BigCard-TI/alertaTarefa"><img width="80" height="80" alt="Alerta Tarefas" src="https://github.com/user-attachments/assets/7003bfb7-7569-4a0f-b4f8-8969b7e55ceb" /></a>
+ <a href="https://github.com/BigCard-TI"><img width="80" height="80" alt="Mini Analista TI" src="https://github.com/user-attachments/assets/809d325e-8bb6-40aa-8e88-ce78b2b4f183" /></a>
+
 </div>
-
-
-
 
 
 ---
