@@ -38,6 +38,19 @@
 ---
 
 <h3 align="left">🌐 My Work</h3>
+
+### Freedom is having a BigCard
+
+Benefits, partnerships and credit, directly from Governador Valadares (MG) since 2001.
+
+[![Site BigCard](https://img.shields.io/badge/bigcard.com.br-0B5FFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.bigcard.com.br)
+[![Site BigCash](https://img.shields.io/badge/bigcash.com.br-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.bigcash.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BigCard-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/cartaobigcard)
+
+![since](https://img.shields.io/badge/Since-2001-1F2937?style=flat-square)
+![Headquarters](https://img.shields.io/badge/Headquarters-Governador%20Valadares%20%2F%20MG-1F2937?style=flat-square)
+![Group](https://img.shields.io/badge/Group-HG-1F2937?style=flat-square)
+
 <p align="left">Check out my portfolio and featured projects:</p>
 <div>
  <a href="https://fagundes.dev.br"><img width="80" height="80" alt="falconImg" src="https://github.com/user-attachments/assets/a6e61693-0bda-4bed-842c-0cd9c1b7065d" /></a>
