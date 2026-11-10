@@ -53,7 +53,7 @@ Benefits, partnerships and credit, directly from Governador Valadares (MG) since
 
 <p align="left">Check out my portfolio and featured projects:</p>
 <div>
- <a href="https://fagundes.dev.br"><img width="80" height="80" alt="falconImg" src="https://github.com/user-attachments/assets/a6e61693-0bda-4bed-842c-0cd9c1b7065d" /></a>
+ <a href="https://fagundes.dev.br/pages/projetos.html"><img width="80" height="80" alt="falconImg" src="https://github.com/user-attachments/assets/a6e61693-0bda-4bed-842c-0cd9c1b7065d" /></a>
  <a href="https://github.com/FalconTFagundes/gerarComuniadosBC_2.0"><img width="80" height="80" alt="gerador de comunicados" src="https://github.com/user-attachments/assets/268eece0-62b7-4653-833a-df822e5fa7a6" /></a>
  <a href="https://github.com/FalconTFagundes/tcc-DivinoSabor"><img width="80" height="80" alt="divino sabor" src="https://github.com/user-attachments/assets/4bec1fed-8842-4fcd-9a90-6cf391ba15c0"/></a>
  <a href="https://zlarental.com.br"><img width="80" height="80" alt="Zla Rental" src="https://github.com/user-attachments/assets/7917cc97-f31e-48b0-9db6-ca8146ebf485" /></a>
