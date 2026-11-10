@@ -61,7 +61,7 @@ Benefits, partnerships and credit, directly from Governador Valadares (MG) since
  <a href="https://github.com/BigCard-TI"><img width="80" height="80" alt="Painel Protocolos" src="https://github.com/user-attachments/assets/5907d791-0e91-4a9c-b92f-b1345c3c09e0" /></a>
  <a href="https://github.com/BigCard-TI/alertaTarefa"><img width="80" height="80" alt="Alerta Tarefas" src="https://github.com/user-attachments/assets/7003bfb7-7569-4a0f-b4f8-8969b7e55ceb" /></a>
  <a href="https://github.com/BigCard-TI"><img width="80" height="80" alt="Mini Analista TI" src="https://github.com/user-attachments/assets/672f917c-4feb-4f85-bee0-c274b4a6ed4d" /></a>
-<a href="https://fagundes.dev.br"><img width="80" height="80" alt="Tormaster" src="https://github.com/user-attachments/assets/a0aca855-1db9-46d2-a81c-03754664e2bb"/></a>
+<a href="https://fagundes.dev.br/pages/projetos.html"><img width="80" height="80" alt="Tormaster" src="https://github.com/user-attachments/assets/a0aca855-1db9-46d2-a81c-03754664e2bb"/></a>
 </div>
 
 
